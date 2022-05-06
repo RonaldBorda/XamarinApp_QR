@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "AefClQGtFCTrej16zPk+piYhi01toLLkvbGCa0oWyDx4ph4G9s3uh/rgvtozL16O02E7h3jG9xXNYnS1q4P5ew==",
+  "success": true,
+  "projectFilePath": "/Users/ronaldborda/Documents/Tecsup2022-I/AppMovilMultiplataforma/labProjects/lab7/lab7.iOS/lab7.iOS.csproj",
+  "expectedPackageFiles": [
+    "/Users/ronaldborda/.nuget/packages/system.numerics.vectors/4.5.0/system.numerics.vectors.4.5.0.nupkg.sha512",
+    "/Users/ronaldborda/.nuget/packages/xamarin.essentials/1.6.1/xamarin.essentials.1.6.1.nupkg.sha512",
+    "/Users/ronaldborda/.nuget/packages/xamarin.forms/5.0.0.2012/xamarin.forms.5.0.0.2012.nupkg.sha512",
+    "/Users/ronaldborda/.nuget/packages/zxing.net.mobile/2.4.1/zxing.net.mobile.2.4.1.nupkg.sha512",
+    "/Users/ronaldborda/.nuget/packages/zxing.net.mobile.forms/2.4.1/zxing.net.mobile.forms.2.4.1.nupkg.sha512"
+  ],
+  "logs": []
+}

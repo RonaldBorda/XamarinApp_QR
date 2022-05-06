@@ -1,0 +1,15 @@
+/Users/ronaldborda/Documents/Tecsup2022-I/AppMovilMultiplataforma/labProjects/lab7/lab7/bin/Debug/netstandard2.0/lab7.deps.json
+/Users/ronaldborda/Documents/Tecsup2022-I/AppMovilMultiplataforma/labProjects/lab7/lab7/bin/Debug/netstandard2.0/lab7.dll
+/Users/ronaldborda/Documents/Tecsup2022-I/AppMovilMultiplataforma/labProjects/lab7/lab7/bin/Debug/netstandard2.0/ref/lab7.dll
+/Users/ronaldborda/Documents/Tecsup2022-I/AppMovilMultiplataforma/labProjects/lab7/lab7/bin/Debug/netstandard2.0/lab7.pdb
+/Users/ronaldborda/Documents/Tecsup2022-I/AppMovilMultiplataforma/labProjects/lab7/lab7/obj/Debug/netstandard2.0/lab7.csproj.AssemblyReference.cache
+/Users/ronaldborda/Documents/Tecsup2022-I/AppMovilMultiplataforma/labProjects/lab7/lab7/obj/Debug/netstandard2.0/lab7.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ronaldborda/Documents/Tecsup2022-I/AppMovilMultiplataforma/labProjects/lab7/lab7/obj/Debug/netstandard2.0/App.xaml.g.cs
+/Users/ronaldborda/Documents/Tecsup2022-I/AppMovilMultiplataforma/labProjects/lab7/lab7/obj/Debug/netstandard2.0/MainPage.xaml.g.cs
+/Users/ronaldborda/Documents/Tecsup2022-I/AppMovilMultiplataforma/labProjects/lab7/lab7/obj/Debug/netstandard2.0/lab7.AssemblyInfoInputs.cache
+/Users/ronaldborda/Documents/Tecsup2022-I/AppMovilMultiplataforma/labProjects/lab7/lab7/obj/Debug/netstandard2.0/lab7.AssemblyInfo.cs
+/Users/ronaldborda/Documents/Tecsup2022-I/AppMovilMultiplataforma/labProjects/lab7/lab7/obj/Debug/netstandard2.0/lab7.csproj.CoreCompileInputs.cache
+/Users/ronaldborda/Documents/Tecsup2022-I/AppMovilMultiplataforma/labProjects/lab7/lab7/obj/Debug/netstandard2.0/XamlC.stamp
+/Users/ronaldborda/Documents/Tecsup2022-I/AppMovilMultiplataforma/labProjects/lab7/lab7/obj/Debug/netstandard2.0/lab7.dll
+/Users/ronaldborda/Documents/Tecsup2022-I/AppMovilMultiplataforma/labProjects/lab7/lab7/obj/Debug/netstandard2.0/ref/lab7.dll
+/Users/ronaldborda/Documents/Tecsup2022-I/AppMovilMultiplataforma/labProjects/lab7/lab7/obj/Debug/netstandard2.0/lab7.pdb
